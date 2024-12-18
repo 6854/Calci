@@ -1,5 +1,7 @@
 body {
     background-color: rgb(255, 255, 255);
+}
+
 #calculator {
     border: 1px solid gray;
     width: 300px;
@@ -13,6 +15,7 @@ body {
     width: 90%;
     height: 50px;
     border-radius: 10px;
+    background-color:  rgb(244, 214, 214);
 }
 
 .button-container {
